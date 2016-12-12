@@ -2,12 +2,12 @@
 
 # rebaze: Junior Java Entwickler (m/w) gesucht
 
-## Unsere Aufgaben
+## Deine Aufgaben
 Zusammen mit dir unterstützen wir unsere Kunden (u.a. Banken) in den Themen Testautomatisierung, Software Methodik (Agiles Vorgehen), DevOps, OSGi und Refactorings. Damit machen wir die Software Entwicklungsteams unserer Kunden kontinuierlich besser, und damit die Welt ein wenig angenehmer.
 
 Du wirst einen Teil deiner Zeit in die Weiterentwicklung einer Open Source Community stecken und aktiv das Portfolio von Rebaze erweitern.
 
-## Unsere Anforderungen
+## Die Anforderungen
 - Ein abgeschlossenes oder erfolgreich abgrochenes Studium
 - Spass an der Softwareentwicklung mit Java bzw. kompatiblen Sprachen wie Scala, Clojure.
 - Affinität zu Open Source Software (ein aktiver Github Account ist von Vorteil)
@@ -24,7 +24,7 @@ Du wirst einen Teil deiner Zeit in die Weiterentwicklung einer Open Source Commu
 
 **Start: 01.02.2017**
 
-## Einsatzort
+## Dein Einsatzort
 - ca. drei Tage/Woche Projektarbeit beim Kunden
 - ca. zwei Tage/Woche Homeoffice
 

@@ -7,7 +7,7 @@
 [Link zur Stellenausschreibung](https://github.com/rebaze/hr/blob/master/hire_junior_consultant.md)
 
 ## Deine Aufgaben
-Zusammen mit dir unterstützen wir unsere Kunden (u.a. Banken) in den Themen Developer Onboarding, Agile Vorgehensmodelle, Testautomatisierung, OSGi und Refactorings. Damit machen wir die Software Entwicklungsteams unserer Kunden kontinuierlich besser und die Welt ein wenig angenehmer.
+Zusammen mit dir unterstützen wir unsere Kunden (u.a. Banken) in den Themen Developer Onboarding, Agile Vorgehensmodelle, Testautomatisierung, OSGi und anspruchsvolle Architektur-Refactorings. Damit machen wir die Software Entwicklungsteams unserer Kunden kontinuierlich besser und die Welt ein wenig angenehmer.
 
 Einen Teil deiner Zeit treibst du die Open Source Community _OPS4J_ voran und erweiterst aktiv das Portfolio von Rebaze.
 

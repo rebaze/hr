@@ -27,7 +27,7 @@ Einen Teil deiner Zeit treibst du die Open Source Community _OPS4J_ voran und er
 
 
 ## Dein Arbeitsplatz
-- Projektarbeit bei unseren renomierten Kunden in Deutschland
+- Projektarbeit bei unseren renommierten Kunden in Deutschland
 - Home-Office oder wo immer eine gute Internetanbindung das Arbeiten möglich macht
 
 ## Wir bieten

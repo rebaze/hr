@@ -2,7 +2,7 @@
 
 # Junior Java Consultant (m/w) gesucht
 
-**Deutschlandweit - Start: 01.04.2017**
+**Deutschlandweit - Start: 01.10.2017**
 
 [Link zur Stellenausschreibung](https://github.com/rebaze/hr/blob/master/hire_junior_consultant.md)
 

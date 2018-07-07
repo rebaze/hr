@@ -40,7 +40,7 @@ Wir bieten unseren Mitarbeitern u.a.:
 - attraktive Kundenprojekte mit Gestaltungsspielraum
 - persönliche Weiterentwicklung durch MItarbeit an Open Source Software
 
-Wir freuen uns auf deine aussagekräftige Bewerbung via Email an<BR/> <a href=mailto:toni.menzel@rebaze.com"">toni.menzel@rebaze.com</a>
+Wir freuen uns auf deine aussagekräftige Bewerbung via Email an<BR/> <a href="mailto:toni.menzel@rebaze.com">toni.menzel@rebaze.com</a>
 
 Mit freundlichen Grüßen
 
